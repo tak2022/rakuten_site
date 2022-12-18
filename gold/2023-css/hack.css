@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ★★ デザイン設定ブラウザ別ズレの修正CSS ★★ */
+
+/* chrome opera */
+@media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: .001dpcm) {
+    #top_wrapper {
+        margin-top:-130px;
+    }
+    #top_wrapper_item {
+        margin-top: -102px;
+    }
+}
+
+/* Firefox */
+@-moz-document url-prefix() {
+    #top_wrapper {
+        margin-top:-133px;
+    }
+}
+
+/* Edge */
+@supports (-ms-ime-align: auto) {
+	#top_wrapper {
+        margin-top:-133px;
+    }
+}
+
+/* IE11 */
+_:-ms-lang(x)::-ms-backdrop, #top_wrapper {
+    margin-top:-115px;
+}
+
+/* safari */
+_::-webkit-full-page-media, _:future, :root #top_wrapper {
+margin-top: -155px;
+}
