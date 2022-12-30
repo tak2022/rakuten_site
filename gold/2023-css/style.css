@@ -35,6 +35,10 @@
     padding: 15px;
 }
 
+.header_category_wrap li img {
+    width: 100%;
+}
+
 /************
 *メインコンテンツ
 ************/
