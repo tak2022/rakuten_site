@@ -1,6 +1,14 @@
 @charset "utf-8";
 
 /************
+*共通パーツ
+************/
+
+a img:hover {
+    opacity: 0.5;
+}
+
+/************
 *ヘッダー
 ************/
 .header_template_rakuten_wrap {
