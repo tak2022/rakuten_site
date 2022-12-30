@@ -117,10 +117,6 @@ footer {
     font-size: 130%;
 }
 
-.footer_contents_wrap dl dd:last-child {
-    margin-bottom: 30px;
-}
-
 .footer_contents_wrap dl dd ul {
     padding-left: 15px;
 }
