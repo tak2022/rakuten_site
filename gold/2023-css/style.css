@@ -36,6 +36,7 @@ ul.header_category_wrap {
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 10px;
 }
 
 ul.header_category_wrap li {
@@ -45,6 +46,18 @@ ul.header_category_wrap li {
 
 ul.header_category_wrap li img {
     width: 100%;
+}
+
+/*ヘッダーバナー*/
+.header_banner_wrap {
+    width: 980px;
+    margin: 0 auto 10px;
+}
+
+.header_banner_wrap img {
+    width: 100%;
+    padding: 0 15px;
+    margin-bottom: 15px;
 }
 
 /************
