@@ -60,6 +60,22 @@ ul.header_category_wrap li img {
     margin-bottom: 15px;
 }
 
+ul.header_r-campaign_bnr_wrap {
+width: 980px;
+margin: 0 auto;
+display: flex;
+flex-wrap: wrap;
+}
+
+ul.header_r-campaign_bnr_wrap li {
+    width: 50%;
+    padding: 0 15px 5px;
+}
+
+ul.header_r-campaign_bnr_wrap li img {
+    width: 100%;
+}
+
 /************
 *メインコンテンツ
 ************/
