@@ -97,6 +97,16 @@ ul.header_r-campaign_bnr_wrap li img {
 /************
 *フッター
 ************/
+footer {
+    
+}
+
 .footer_bottom_wrap {
     background-color: #70112F;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.footer_bottom_credit {
+    color: #ffffff;
 }
