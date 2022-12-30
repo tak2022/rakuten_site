@@ -68,10 +68,10 @@ ul.header_category_wrap li img {
 }
 
 ul.header_r-campaign_bnr_wrap {
-width: 980px;
-margin: 0 auto;
-display: flex;
-flex-wrap: wrap;
+    width: 980px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 ul.header_r-campaign_bnr_wrap li {
@@ -99,6 +99,42 @@ ul.header_r-campaign_bnr_wrap li img {
 ************/
 footer {
     background-color: #E5C6C1;
+}
+
+.footer_contents_wrap {
+    width: 980px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.footer_contents_wrap dl {
+    padding: 15px;
+}
+
+.footer_contents_wrap dl dt {
+    font-size: 130%;
+}
+
+.footer_contents_wrap dl dd:last-child {
+    margin-bottom: 30px;
+}
+
+.footer_contents_wrap dl dd ul {
+    padding-left: 15px;
+}
+
+.footer_contents_wrap dl dd ul li {
+    list-style: disc;
+}
+
+.footer_contents_wrap dl dd ul li::marker {
+    content: '※';
+}
+
+.footer_contents_wrap dl.left {
+    width: 580px;
 }
 
 .footer_bottom_wrap {
