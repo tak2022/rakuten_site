@@ -38,12 +38,12 @@ ul.header_category_wrap {
     flex-wrap: wrap;
 }
 
-.header_category_wrap li {
+ul.header_category_wrap li {
     width: 33.333%;
     padding: 15px;
 }
 
-.header_category_wrap li img {
+ul.header_category_wrap li img {
     width: 100%;
 }
 
