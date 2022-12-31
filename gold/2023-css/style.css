@@ -115,6 +115,7 @@ footer {
 
 .footer_contents_wrap dl dt {
     font-size: 130%;
+    margin-top: 30px;
 }
 
 .footer_contents_wrap dl dd ul {
@@ -136,6 +137,7 @@ footer {
 .footer_bottom_wrap {
     background-color: #70112F;
     text-align: center;
+    padding-top: 10px;
     padding-bottom: 15px;
 }
 
