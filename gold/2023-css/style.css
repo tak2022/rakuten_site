@@ -134,6 +134,10 @@ footer {
     width: 580px;
 }
 
+.footer_contents_wrap dl.right {
+max-width: fit-content;
+}
+
 .footer_bottom_wrap {
     background-color: #70112F;
     text-align: center;
