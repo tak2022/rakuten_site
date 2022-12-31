@@ -107,6 +107,7 @@ footer {
     flex-wrap: wrap;
     margin: 0 auto;
     line-height: 1.5;
+    margin-bottom: 30px;
 }
 
 .footer_contents_wrap dl {
