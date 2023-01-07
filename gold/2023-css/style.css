@@ -271,7 +271,7 @@ a.btn-flat:before {
     -webkit-transform: translateX(-98%) translateY(-25%) rotate(45deg);
     transform: translateX(-98%) translateY(-25%) rotate(45deg);
 
-    background: #00b7ee;
+    background: #70112F;
 }
 
 a.btn-flat:hover:before {
