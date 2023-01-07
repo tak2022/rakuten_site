@@ -136,7 +136,7 @@ footer {
 }
 
 .footer_contents_wrap dl.right {
-max-width: fit-content;
+width: 430px;
 }
 
 .footer_bottom_wrap {
