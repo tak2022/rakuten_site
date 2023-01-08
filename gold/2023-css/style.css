@@ -219,8 +219,13 @@ ul.header_r-campaign_bnr_wrap li img {
 *レフトナビ
 ************/
 
-.sidber_menu03 li{
-margin: 5px 0;
+.sidber_menu02 li {
+    margin-bottom: 3px;
+    border-bottom: 1px solid;
+}
+
+.sidber_menu03 li {
+    margin: 5px 0;
 }
 
 .btn,
