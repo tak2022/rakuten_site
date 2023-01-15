@@ -293,6 +293,16 @@ a.btn-flat:hover:before {
 /************
 *フッター
 ************/
+.footer_container_980{
+    margin: 0 auto;
+    width: 980px;
+    padding: 0 15px;
+}
+
+.footer_container_980 img{
+    width: 100%;
+}
+
 /*iframe*/
 .iframe_footer {
     width: 100%;
